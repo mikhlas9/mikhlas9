@@ -2,7 +2,8 @@
 <h1 align="center"<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=&color=FFFFFF&center=true&repeat=false&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm;+Mohammad+Ikhlas" alt="Typing SVG" /></a></h1>
 
 <h3 align="center">A passionate full stack developer and Machine Learning enthusiast from Kashmir/India</h3>
-![](https://komarev.com/ghpvc/?username=mikhlas9&abbreviated=true)
+
+![](https://komarev.com/ghpvc/?username=mikhlas9&style=flat-square)
 
 <h2>Certifications 📜<h2>
 <p font_size="5px" >🔹 <a href="https://www.udemy.com/certificate/UC-7e5b3b9f-3015-49e4-b3e1-ea24730d92a1/">Web Development </a>-- Udemy</p>
