@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate full stack developer and Machine Learning enthusiast from Kashmir/India</h3>
 
-![](https://komarev.com/ghpvc/?username=mikhlas9&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mikhlas9&style=plastic)
 
 <h2>Certifications 📜<h2>
 <p font_size="5px" >🔹 <a href="https://www.udemy.com/certificate/UC-7e5b3b9f-3015-49e4-b3e1-ea24730d92a1/">Web Development </a>-- Udemy</p>
