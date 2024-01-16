@@ -27,6 +27,10 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </a>
+<h3>Machine Learning</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
+</a>
 
           
 
