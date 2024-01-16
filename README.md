@@ -1,32 +1,26 @@
- <style>
-    @keyframes revealText {
-      0% { content: " "; }
-      20% { content: "I"; }
-      40% { content: "Ik"; }
-      60% { content: "Ikh"; }
-      80% { content: "Ikhl"; }
-      100% { content: "Ikhla"; }
-    }
+ <h1 id="dynamic-text"></h1>
 
-    @keyframes eraseText {
-      0% { content: "Ikhla"; }
-      20% { content: "Ikh"; }
-      40% { content: "Ik"; }
-      60% { content: "I"; }
-      80% { content: " "; }
-      100% { content: " "; }
-    }
+<script>
+  const textElement = document.getElementById('dynamic-text');
+  const name = 'Ikhlas';
+  let index = 0;
+  let direction = 1;
 
-    h1 {
-      font-family: 'Arial', sans-serif;
-      font-size: 36px;
-      white-space: nowrap;
-      overflow: hidden;
-      animation: revealText 4s forwards, eraseText 4s 4s forwards;
+  function updateText() {
+    textElement.textContent = name.substring(0, index);
+    index += direction;
+
+    if (index > name.length || index < 0) {
+      direction *= -1;
+      setTimeout(updateText, 1000); // Delay before reversing
+    } else {
+      setTimeout(updateText, 100); // Speed of animation
     }
-  </style>
-          
-<h1 align="center">Ikhlas</h1>
+  }
+
+  updateText();
+</script>
+
 <h3 align="center">A passionate full stack developer and Machine Learning enthusiast from Kashmir/India</h3>
 
 <h2>Certifications 📜<h2>
