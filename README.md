@@ -31,6 +31,11 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn" />
 </a>
+<h3>Version Control</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github" />
+</a>
+
 
           
 
