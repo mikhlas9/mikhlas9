@@ -17,8 +17,8 @@
 <h2>Tech Stack 💻</h2>
 <h3>Language</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html" />
+</a>
 
           
 
