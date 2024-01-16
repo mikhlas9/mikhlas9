@@ -37,7 +37,8 @@
 </a>
 
 <h2>My Github Stats  💪🏼</h2>
-![ikhlas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhlas9&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhlas9&hide=contribs,prs)
 
 
           
