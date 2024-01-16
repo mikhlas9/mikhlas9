@@ -12,4 +12,9 @@
 </ul>
 </li>
 </ul>
+<h2>Tech Stack 💻</h2>
+<h3>Language</h3>
+![image](https://github.com/mikhlas9/mikhlas9/assets/112476101/624adf32-6053-4606-ab8a-88215e909374) ![image](https://github.com/mikhlas9/mikhlas9/assets/112476101/cc54b97d-b99a-4e72-b148-bdca06c4710d)
+
+
 
