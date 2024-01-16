@@ -23,6 +23,10 @@
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,flask,nodejs,express,bootstrap" />
 </a>
+<h3>Database</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</a>
 
           
 
