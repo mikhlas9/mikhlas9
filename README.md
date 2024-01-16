@@ -17,7 +17,11 @@
 <h2>Tech Stack 💻</h2>
 <h3>Language</h3>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,html" />
+</a>
+<h3>Frameworks</h3>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flask,nodejs,express,bootstrap" />
 </a>
 
           
