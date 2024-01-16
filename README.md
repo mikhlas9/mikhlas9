@@ -1,3 +1,6 @@
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
 <h1 align="center">Hi 👋, I'm Mohammad Ikhlas</h1>
 <h3 align="center">A passionate full stack developer and Machine Learning enthusiast from Kashmir/India</h3>
 
@@ -14,7 +17,10 @@
 </ul>
 <h2>Tech Stack 💻</h2>
 <h3>Language</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+          
+
 
 
 
