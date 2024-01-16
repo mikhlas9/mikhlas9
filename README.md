@@ -36,6 +36,7 @@
     <img src="https://skillicons.dev/icons?i=git,github" />
 </a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
           
 
