@@ -28,8 +28,6 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </a>
 <h3>Machine Learning</h3>
-          <img src="![image](https://github.com/mikhlas9/mikhlas9/assets/112476101/0da671cb-502b-4310-a13f-9bb5e67457be)"
- />
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=sklearn" />
 </a>
