@@ -1,6 +1,32 @@
+ <style>
+    @keyframes revealText {
+      0% { content: " "; }
+      20% { content: "I"; }
+      40% { content: "Ik"; }
+      60% { content: "Ikh"; }
+      80% { content: "Ikhl"; }
+      100% { content: "Ikhla"; }
+    }
 
+    @keyframes eraseText {
+      0% { content: "Ikhla"; }
+      20% { content: "Ikh"; }
+      40% { content: "Ik"; }
+      60% { content: "I"; }
+      80% { content: " "; }
+      100% { content: " "; }
+    }
+
+    h1 {
+      font-family: 'Arial', sans-serif;
+      font-size: 36px;
+      white-space: nowrap;
+      overflow: hidden;
+      animation: revealText 4s forwards, eraseText 4s 4s forwards;
+    }
+  </style>
           
-<h1 align="center">Hi 👋, I'm Mohammad Ikhlas</h1>
+<h1 align="center">Ikhlas</h1>
 <h3 align="center">A passionate full stack developer and Machine Learning enthusiast from Kashmir/India</h3>
 
 <h2>Certifications 📜<h2>
