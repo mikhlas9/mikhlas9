@@ -1,26 +1,6 @@
- <h1 id="dynamic-text"></h1>
 
-<script>
-  const textElement = document.getElementById('dynamic-text');
-  const name = 'Ikhlas';
-  let index = 0;
-  let direction = 1;
 
-  function updateText() {
-    textElement.textContent = name.substring(0, index);
-    index += direction;
-
-    if (index > name.length || index < 0) {
-      direction *= -1;
-      setTimeout(updateText, 1000); // Delay before reversing
-    } else {
-      setTimeout(updateText, 100); // Speed of animation
-    }
-  }
-
-  updateText();
-</script>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&random=false&width=435&lines=+Mohammad+Ikhlas" alt="Typing SVG" /></a>
 <h3 align="center">A passionate full stack developer and Machine Learning enthusiast from Kashmir/India</h3>
 
 <h2>Certifications 📜<h2>
