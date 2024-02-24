@@ -42,6 +42,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikhlas9&hide=contribs,prs)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhlas9&langs_count=8)
+
 
           
 
